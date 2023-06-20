@@ -1,2 +1,4 @@
-re = 5 + 3 * 2
-print(re)
+n = input('Digite um numero: ')
+
+print(f'O dobro de {n} é: {2 * n}')
+print(f'O triplo de {n} é: {3* n}')
